@@ -176,7 +176,7 @@ img {
   }
 }
 
-/*Produtos*/
+/*Footer*/
 .produtos {
   max-width: 960px;
   margin: 60px auto;
@@ -236,7 +236,6 @@ img {
   }
 }
 
-/*Preco*/
 .preco {
   background: #f7f7f7;
   padding: 60px;
@@ -350,7 +349,6 @@ img {
   }
 }
 
-/*Qualidade*/
 .qualidade {
   max-width: 960px;
   margin: 60px auto;
@@ -401,7 +399,6 @@ img {
   color: #7c7c7c;
 }
 
-/*Newsletter*/
 .newsletter {
   background: #f7f7f7;
   padding: 60px calc((100% - 960px) / 2);
@@ -484,7 +481,6 @@ img {
   }
 }
 
-/*Footer*/
 .footer {
   display: -webkit-box;
   display: -ms-flexbox;
