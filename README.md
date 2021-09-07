@@ -10,6 +10,10 @@ Bom, atualmente quase todo mundo possui dispositivos móveis, como celulares, ta
 sites e aplicações web, sendo assim, é imprescindível que o desenvolvimento web seja feito para todos os tipos de dispositivos para assegurar a melhor experiência para o 
 usuário.
 
+## O que fiz de "diferente" do proposto no curso?
+
+Para não fazer apenas um "ctrl+c, ctrl+v" no projeto do curso, eu implementei a utilização do SASS para fazer o desenvolvimento e utilizar algo diferente do proposto no curso.
+
 Você pode acessá-lo no seguinte link:
 
 https://voteprogramablz.github.io/flexblog/
