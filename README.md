@@ -12,7 +12,7 @@ usuário.
 
 ## O que fiz de "diferente" do proposto no curso?
 
-Para não fazer apenas um "ctrl+c, ctrl+v" no projeto do curso, eu implementei a utilização do SASS para fazer o desenvolvimento e utilizar algo diferente do proposto no curso.
+Para não fazer apenas um "ctrl+c, ctrl+v" no projeto do curso, eu implementei a utilização do SASS para fazer o desenvolvimento e utilizar algo diferente do proposto.
 
 Você pode acessá-lo no seguinte link:
 
